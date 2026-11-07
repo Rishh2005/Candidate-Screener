@@ -3,7 +3,6 @@
 I built this project to solve a real problem recruiters face during hiring drives: sifting through dozens of resumes manually is tedious and time-consuming. 
 
 This tool automates the initial candidate screening process. It extracts text from PDF and Word resumes, parses contact information, calculates how closely a candidate's background matches a Job Description using vector embeddings, and generates structured hiring feedback with custom interview questions.
-
 ---
 
 ## Quick Links
